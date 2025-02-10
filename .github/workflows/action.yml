@@ -1,5 +1,4 @@
 name: Auto Renew and Deploy SSL Certificates
-
 on:
   push:
     branches:
