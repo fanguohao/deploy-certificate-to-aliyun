@@ -1,6 +1,6 @@
 # deploy-certificate-to-aliyun
 每两个月自动部署泛解析证书到阿里云CDN上
-
+test
 
 
 ## 如何使用
